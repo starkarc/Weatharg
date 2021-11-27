@@ -1,2 +1,2 @@
-# weatherApp
-Weather App with Codo a Codo and IBM
+# weathArg
+Aplicacion de Clima Base Codo a Codo IBM Grupo 94
