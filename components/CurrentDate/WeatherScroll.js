@@ -57,7 +57,7 @@ const styles = StyleSheet.create({
         marginBottom: 35
     },
     day: {
-        fontSize: 20,
+        fontSize: 25,
         color:"white",
         backgroundColor: "#3c3c44",
         padding: 10,
